@@ -12,4 +12,3 @@ require 'faker'
     content:  Faker::Movies::StarWars.quote
   )
 end
-puts 'Finished!'
